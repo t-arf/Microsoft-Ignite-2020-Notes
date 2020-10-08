@@ -1,1 +1,1 @@
-# Microsoft-Ignite-2020-Notes
+# Microsoft-Ignite-2020 CLOUD SKILLS CHALLENEGE
